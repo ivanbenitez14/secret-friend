@@ -6,6 +6,9 @@
     - El sistema se va a encargar de seleccionar a uno de las personas/amigos dentro de la lista.
     - Finaliza la ejecución del programa.
 
+### Captura de pantalla
+![Captura de pantalla](/assets/screenshot.png)
+
 - Instalaciones:
     - Sólo se requiere clonar el repositorio y luego ejecutar el proyecto en tu computadora.
     - No se requiere la instalación de librerias externas.
