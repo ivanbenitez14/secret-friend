@@ -21,7 +21,7 @@ function sortearAmigo() {
         let amigoSecreto = amigos[amigoElegido];
 
         let mostrarAmigoSecreto = document.getElementById("resultado");
-        mostrarAmigoSecreto.innerHTML = amigoSecreto;
+        mostrarAmigoSecreto.innerHTML = `El amigo secreto elegido es: ${amigoSecreto}`;
 
     } else {
         alert("Agregar un amigo antes de sortear");
